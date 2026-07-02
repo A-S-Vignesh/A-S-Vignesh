@@ -104,12 +104,25 @@ const vignesh = {
 
 <br/>
 
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-## 🏆 GitHub Trophies
+<!-- ═══════════════════════ PROFILE SUMMARY ═══════════════════════ -->
+## 📈 Profile Summary
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-vignesh&theme=tokyonight" width="95%" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-s-vignesh&theme=tokyonight" alt="Repos per Language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a-s-vignesh&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<!-- 🏆 GitHub Trophies — the public trophy service (github-profile-trophy.vercel.app)
+     is currently down with HTTP 402 (out of free hosting quota) for ALL users.
+     Uncomment this block once the service is back, or self-host it on Vercel:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=a-s-vignesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 </div>
+-->
 
 <br/>
 
